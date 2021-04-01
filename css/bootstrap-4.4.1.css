@@ -79,9 +79,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    margin-top: 0;
-    margin-bottom: 1rem;
-    color: #000000;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 abbr[title],
@@ -380,8 +379,7 @@ h4, .h4 {
 }
 
 h5, .h5 {
-    font-size: 1.25rem;
-    color: #BFBFBF;
+  font-size: 1.25rem;
 }
 
 h6, .h6 {
@@ -4763,8 +4761,7 @@ input[type="button"].btn-block {
 }
 
 .card-title {
-    margin-bottom: 0.75rem;
-    color: #000000;
+  margin-bottom: 0.75rem;
 }
 
 .card-subtitle {
@@ -4773,8 +4770,7 @@ input[type="button"].btn-block {
 }
 
 .card-text:last-child {
-    margin-bottom: 0;
-    color: #000000;
+  margin-bottom: 0;
 }
 
 .card-link:hover {
